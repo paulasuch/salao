@@ -1,0 +1,18 @@
+img{
+    width: 200px;
+    margin-left: 220px;
+
+
+}
+
+.cabecalho{
+  background-color: pink;
+display: flex;
+}
+
+.listacabecalho{
+   display: flex;
+   margin-left: 760px;
+   margin-top: 100px;
+
+}
