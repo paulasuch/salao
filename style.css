@@ -1,5 +1,5 @@
 img{
-    width: 200px;
+    width: 300px;
     margin-left: 220px;
 
 
@@ -16,3 +16,12 @@ display: flex;
    margin-top: 100px;
 
 }
+.itemlistacabecalho{
+  list-style: none;
+  padding-left: 20px;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+
+
